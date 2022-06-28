@@ -1,0 +1,23 @@
+/* spec >w< */
+.navbar-orange, .nav-item .dropdown-menu {
+    background: linear-gradient(90deg,#348ac7,#7474bf);
+    height: 60px;
+    border-bottom: 1px solid hsla(0,0%,100%,.1);
+}
+
+.navbar-expand-lg .navbar-collapse {
+    font-size: 14px;
+}
+
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand {
+    font-size: 1rem;
+}
+
+.bg-dark {
+    background: linear-gradient(90deg, rgba(44,116,170,1) 0%, rgba(93,99,152,1) 100%);
+    height: 40px;
+}
+
+.btn-outline-light {
+  border-color: #f8f9fa00;
+}
