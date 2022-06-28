@@ -1,2 +1,2 @@
-# spec-s-custom-CSS-repo
-Simple repo for any custom css projects i work on
+# spec's css repo:
+### Find interesting custom CSS projects in this repo for the sites you love
